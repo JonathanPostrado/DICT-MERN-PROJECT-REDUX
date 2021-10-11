@@ -1,0 +1,18 @@
+.bgColor {
+  background-color: #040d21;
+}
+:root {
+  --primary-color: rgb(4, 13, 33);
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.bg-mern {
+  background: url("../../assets/images/mern.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+  background-attachment: fixed;
+}
